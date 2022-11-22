@@ -1,0 +1,15 @@
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\bin\Debug\net7.0\lessing_c#_1.exe
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\bin\Debug\net7.0\lessing_c#_1.deps.json
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\bin\Debug\net7.0\lessing_c#_1.runtimeconfig.json
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\bin\Debug\net7.0\lessing_c#_1.dll
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\bin\Debug\net7.0\lessing_c#_1.pdb
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.csproj.AssemblyReference.cache
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.AssemblyInfoInputs.cache
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.AssemblyInfo.cs
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.csproj.CoreCompileInputs.cache
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.dll
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\refint\lessing_c#_1.dll
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.pdb
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\lessing_c#_1.genruntimeconfig.cache
+C:\Users\mashk\Desktop\lessing_c#\lessing_c#_1\obj\Debug\net7.0\ref\lessing_c#_1.dll
